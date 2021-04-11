@@ -109,7 +109,7 @@ body{
 	opacity: 0;
 	transform: translateY(0%);
 	padding: 10px 10px 10px 150px;
-	transition: trasform 0.3s ease-in, opacity 0.3s ease-in;
+	transition: transform 0.3s ease-in, opacity 0.3s ease-in;
 }
 
 .music-info h4{
